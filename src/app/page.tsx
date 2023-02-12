@@ -9,8 +9,8 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Akira GoasdasdsSSSho&nbsp;
-          <code className={styles.code}>src/app/page.tsx</code>
+          Anh yêu em Ly ơi&nbsp;
+          {/* <code className={styles.code}>src/app/page.tsx</code> */}
         </p>
         <div>
           <a
